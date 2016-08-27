@@ -2,7 +2,7 @@
  * This class contains information related to a single earthquake.
  *
  * @author Manan Kalra
- * @version 1.0
+ * @version 2.0
  */
 
 package io.github.manankalra.tremor;

@@ -2,7 +2,7 @@
  * Custom ArrayAdapter for the data that we need to display in a single ListItem which is defined by the earthquake_list_item.xml file.
  *
  * @author Manan Kalra
- * @version 1.0
+ * @version 2.0
  */
 
 package io.github.manankalra.tremor;
