@@ -3,7 +3,6 @@
  * network request to the given URL.
  *
  * @author Manan Kalra
- * @version 2.0
  */
 package io.github.manankalra.tremor;
 

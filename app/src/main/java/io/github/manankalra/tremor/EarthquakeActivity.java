@@ -2,7 +2,6 @@
  * This application displays a list of recent earthquakes in the world.
  *
  * @author Manan Kalra
- * @version 2.0
  */
 
 package io.github.manankalra.tremor;
