@@ -19,4 +19,4 @@ Pre-requisites
 
 Screenshots
 -----------
-![rsz_screenshot_20160827-105157](https://cloud.githubusercontent.com/assets/12759088/18025408/3f66b230-6c46-11e6-91dc-e30dc4cdff96.png)
+![rsz_screenshot_20160827-153408](https://cloud.githubusercontent.com/assets/12759088/18026725/326c860e-6c6e-11e6-8c0b-8013789c929a.png)
